@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Beumer"
-  avatar           : path of avatar image, e.g. "/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
   bio              : "DevOps Engineer, Husband and Dad "
   location         : "Apeldoorn, Netherlands"
   email            : richard@wilmar.nl
