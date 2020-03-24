@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Richard Beumer"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
-  bio              : "DevOps Engineer, Husband and Dad "
+  bio              : "DevOps Engineer, testing with Github pages and Jekyll "
   location         : "Apeldoorn, Netherlands"
   email            : richard@wilmar.nl
   links:
