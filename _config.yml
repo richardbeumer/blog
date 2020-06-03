@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "Richard Beumer"
 title_separator          : "-"
-subtitle                 : DevOps | Home Automation | Fun # site tagline that appears below site title in masthead
+subtitle                 : Just about me... # site tagline that appears below site title in masthead
 name                     : "Richard Beumer"
 description              : "Weblog created with GitHub Pages and Jekyll"
 url                      : https://blog.rchrd.be # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
