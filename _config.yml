@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Richard Beumer"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
-  bio              : "DevOps | Home Automation | Mountainbiking | Plex"
+  bio              : "DevOps, Home Automation, Mountainbiking, Plex"
   location         : "Apeldoorn, Netherlands"
   email            : richard@wilmar.nl
   links:
